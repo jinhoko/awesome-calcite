@@ -1,7 +1,7 @@
 # awesome-calcite
 A curated list of awesome Apache Calcite references.
 
-There are not much detailed references on Apache Calcite. The first thing you need to do is read through the official [docs](https://calcite.apache.org/docs/) with extreme care, and then read all contents of Calcite [javadoc](https://javadoc.io/doc/org.apache.calcite/calcite-core/latest/index.html) with patience.
+There are not many detailed references on Apache Calcite. The first thing you need to do is read through the official [docs](https://calcite.apache.org/docs/) with extreme care, and then read all contents of Calcite [javadoc](https://javadoc.io/doc/org.apache.calcite/calcite-core/latest/index.html) with patience.
 
 ## Contents
 
